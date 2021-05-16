@@ -60,6 +60,15 @@
   Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tags-query-tsx-235f8d6a5050889db42d.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/tags/page-data.json>; rel=preload; as=fetch; crossorigin
+/strategy_pattern
+  Link: </webpack-runtime-3e9b9bde4cda53ef149a.js>; rel=preload; as=script
+  Link: </framework-305b3707783ccc9d7ca6.js>; rel=preload; as=script
+  Link: </app-ffbfbe178fec5165cbda.js>; rel=preload; as=script
+  Link: </styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </a75e6e4d1b7feebda3ca1479eef2fbcc6776bb12-18ae887557b942bf98cf.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-post-query-tsx-e3cc6b7eff977e0079ae.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/strategy_pattern/page-data.json>; rel=preload; as=fetch; crossorigin
 /virtual_dom
   Link: </webpack-runtime-3e9b9bde4cda53ef149a.js>; rel=preload; as=script
   Link: </framework-305b3707783ccc9d7ca6.js>; rel=preload; as=script
