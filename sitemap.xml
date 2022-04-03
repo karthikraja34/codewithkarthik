@@ -3,6 +3,7 @@
 <url> <loc>https://codewithkarthik.com/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://codewithkarthik.com/blog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://codewithkarthik.com/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://codewithkarthik.com/how_https_works</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://codewithkarthik.com/http</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://codewithkarthik.com/observer_pattern</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://codewithkarthik.com/strategy_pattern</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
